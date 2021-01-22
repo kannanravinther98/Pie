@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702685143526",
+    "project_id": "tutii-6191a",
+    "storage_bucket": "tutii-6191a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702685143526:android:d2c0399e65a806f236b627",
+        "android_client_info": {
+          "package_name": "com.example.thefirebasecrudnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702685143526-0ploilamabu00jihuguh485e8ocgdlls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thefirebasecrudnotes",
+            "certificate_hash": "c5c2c6747e672b8f854e37f50a46c0faa5e35db2"
+          }
+        },
+        {
+          "client_id": "702685143526-idikv8esg7tjr64qqg5h8g7ushkl9ph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQ_5Ld8H7Igi1qx4l_s3HI3fr4FNlfXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702685143526-idikv8esg7tjr64qqg5h8g7ushkl9ph2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
